@@ -1,0 +1,4 @@
+﻿  FormBeg.cpp
+C:\Users\123\OneDrive\Рабочий стол\OOP.2kurs\ISLB\FormBeg.cpp(21,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  convert.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ISLB.vcxproj -> C:\Users\123\OneDrive\Рабочий стол\OOP.2kurs\ISLB\Debug\ISLB.exe

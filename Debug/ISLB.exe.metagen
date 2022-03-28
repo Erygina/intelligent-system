@@ -1,0 +1,74 @@
+  ISLB.Form1.resources - Embedded, ContainedInManifestFile, 
+  ISLB.FormBeg.resources - Embedded, ContainedInManifestFile, 
+  ISLB.MyForm.resources - Embedded, ContainedInManifestFile, 
+  ISLB.MyForm1.resources - Embedded, ContainedInManifestFile, 
+  ISLB.MyForm2.resources - Embedded, ContainedInManifestFile, 
+  ISLB.MyForm3.resources - Embedded, ContainedInManifestFile, 
+  ISLB.MyForm4.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly ISLB, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ISLB.FormBeg: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    livingSpace(String): PrivateScope, Public, HideBySig
+    location(String): PrivateScope, Public, HideBySig
+    havingChildren(String): PrivateScope, Public, HideBySig
+    genderOfChildren(String): PrivateScope, Public, HideBySig
+    numberOfChildren(Int32): PrivateScope, Public, HideBySig
+    minimumAge(Int32): PrivateScope, Public, HideBySig
+    car(String): PrivateScope, Public, HideBySig
+    garage(String): PrivateScope, Public, HideBySig
+    budget(Int32): PrivateScope, Public, HideBySig
+    additionalBuilding(String): PrivateScope, Public, HideBySig
+    inf_apartment(): PrivateScope, Public, HideBySig
+    inf_garage(): PrivateScope, Public, HideBySig
+    inf_house(): PrivateScope, Public, HideBySig
+    inf_flat_and_garage(): PrivateScope, Public, HideBySig
+    buy_apartment(): PrivateScope, Public, HideBySig
+    buy_garage(): PrivateScope, Public, HideBySig
+    buy_house(): PrivateScope, Public, HideBySig
+    buy(): PrivateScope, Public, HideBySig
+    Q6(): PrivateScope, Public, HideBySig
+    Q5(): PrivateScope, Public, HideBySig
+    Q4(): PrivateScope, Public, HideBySig
+    Q3(): PrivateScope, Public, HideBySig
+    Q2(): PrivateScope, Public, HideBySig
+    Q1(): PrivateScope, Public, HideBySig
+    about_apartment<Apartment>(Apartment*, Int32, Int32*): PrivateScope, Public, HideBySig
+    about_apartment<FlatAndGarage>(FlatAndGarage*, Int32, Int32*): PrivateScope, Public, HideBySig
+Class ISLB.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ISLB.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ISLB.MyForm3: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ISLB.MyForm1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ISLB.MyForm2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ISLB.MyForm4: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

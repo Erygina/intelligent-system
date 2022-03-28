@@ -1,0 +1,10 @@
+C:\Users\123\OneDrive\Рабочий стол\OOP.2kurs\ISLB\Debug\ISLB.vcxprojAssemblyReference.cache
+C:\Users\123\OneDrive\Рабочий стол\OOP.2kurs\ISLB\Debug\ISLB.exe
+C:\Users\123\OneDrive\Рабочий стол\OOP.2kurs\ISLB\Debug\ISLB.FormBeg.resources
+C:\Users\123\OneDrive\Рабочий стол\OOP.2kurs\ISLB\Debug\ISLB.vcxproj.GenerateResource.cache
+C:\Users\123\OneDrive\Рабочий стол\OOP.2kurs\ISLB\Debug\ISLB.MyForm.resources
+C:\Users\123\OneDrive\Рабочий стол\OOP.2kurs\ISLB\Debug\ISLB.MyForm1.resources
+C:\Users\123\OneDrive\Рабочий стол\OOP.2kurs\ISLB\Debug\ISLB.MyForm2.resources
+C:\Users\123\OneDrive\Рабочий стол\OOP.2kurs\ISLB\Debug\ISLB.MyForm3.resources
+C:\Users\123\OneDrive\Рабочий стол\OOP.2kurs\ISLB\Debug\ISLB.Form1.resources
+C:\Users\123\OneDrive\Рабочий стол\OOP.2kurs\ISLB\Debug\ISLB.MyForm4.resources
